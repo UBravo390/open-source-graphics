@@ -12,5 +12,5 @@ The printing tips graphics are RGB colour format and 500px wide x 709px tall. Al
 ![Printing Tip 6](https://ultimatebanners.co/wp-content/uploads/printingtip6.jpg)
 ![Printing Tip 7](https://ultimatebanners.co/wp-content/uploads/printingtip7.jpg)
 ![Printing Tip 8](https://ultimatebanners.co/wp-content/uploads/printingtip8.jpg)
-![Printing Tip 9](https://ultimatebanners.co/wp-content/uploads/printingtip9.jpg)
-![Printing Tip 10](https://ultimatebanners.co/wp-content/uploads/printingtip10.jpg)
+![Printing Tip 9](https://ultimatebanners.co/wp-content/uploads/printingtip9.png)
+![Printing Tip 10](https://ultimatebanners.co/wp-content/uploads/printingtip10.png)
