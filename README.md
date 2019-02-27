@@ -1,4 +1,4 @@
-# open source graphics #1 - =10
+# open source graphics #1 - #10
 
 Library Of Open Source graphics created by and used on the https://ultimatebanners.co website.
 
